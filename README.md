@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Wanna see more? Checkout my [portfolio](https://seizenpass.github.io)!
+
+
 <!--
 **SeizenPass/SeizenPass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
