@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Wanna see more? Checkout my [portfolio](https://seizenpass.github.io)!
+<!-- Wanna see more? Checkout my [portfolio](https://seizenpass.github.io)! -->
 
 
 <!--
